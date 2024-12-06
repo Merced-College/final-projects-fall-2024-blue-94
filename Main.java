@@ -1,5 +1,7 @@
-// Jeremiah Tenn
 // Final Project - Cipher encryption and decryption
+// Jeremiah Tenn
+// Professor Kanemoto
+// CPSC-39
 // I wrote all lines in this program; it is original.
 
 import java.util.LinkedList;
